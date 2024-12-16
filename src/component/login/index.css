@@ -1,0 +1,25 @@
+.Buttons{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.SignButton{
+    padding: 10px 20px;
+    color: black;
+    border:none;
+    cursor: pointer;
+   width: 50%;
+}
+.LoginButton{
+    padding: 10px 20px;
+    color: black;
+    border:none;
+    cursor: pointer;
+   margin-right: 10px;
+   width: 50%;
+           
+            
+           
+    
+}
